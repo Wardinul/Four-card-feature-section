@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Wardinul/Four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://wardinul.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Wardin](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Wardin](https://www.frontendmentor.io/profile/Wardinul)
